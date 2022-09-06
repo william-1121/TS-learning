@@ -1,5 +1,5 @@
 import axios from "axios";
-import {Eventing} from "./Eventing";
+import { Eventing } from "../Eventing";
 
 interface UserProps {
   id?: number,
